@@ -1,0 +1,11 @@
+[project]
+name = "tflite"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy==1.23.5",
+    "pillow>=11.3.0",
+    "tflite-runtime>=2.14.0",
+]
