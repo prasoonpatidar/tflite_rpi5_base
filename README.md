@@ -1,18 +1,18 @@
-# TFLite Raspberry Pi 5 Base
+# TFLite Raspberry Pi zero 2w Base
 
-A TensorFlow Lite image classification project for Raspberry Pi 5 using the MobileNet V1 quantized model.
+A TensorFlow Lite image classification project for Raspberry Pi zero2w using the MobileNet V1 quantized model.
 
 ## Requirements
 
 - Python 3.9+
-- Raspberry Pi 5 (or compatible device)
+- Raspberry Pi zero 2w (or compatible device)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd tflite_rpi5_base
+   git clone <repository-url> tflite_rpi0_2w_base
+   cd tflite_rpi0_2w_base
    ```
 
 2. Install dependencies using uv:
